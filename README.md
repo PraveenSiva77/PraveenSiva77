@@ -59,12 +59,36 @@ I am a dedicated B.Tech student in AI and Data Science at Kathir College of Engi
 - **Non-Technical Skills:** Adaptability, Team Player, Communication, Problem Solving, Time Management
 
 ### Badges
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-065535?style=for-the-badge&logo=machine-learning&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-9C27B0?style=for-the-badge&logo=deep-learning&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge&logo=data-science&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-795548?style=for-the-badge&logo=nlp&logoColor=white)
+![Front-End Development](https://img.shields.io/badge/Front--End%20Development-00ACC1?style=for-the-badge&logo=front-end-development&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Development-3F51B5?style=for-the-badge&logo=web-development&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-E91E63?style=for-the-badge&logo=ui-ux-design&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Version Control](https://img.shields.io/badge/Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FFEB3B?style=for-the-badge&logo=problem-solving&logoColor=black)
+![Communication](https://img.shields.io/badge/Communication-03A9F4?style=for-the-badge&logo=communication&logoColor=white)
+![Adaptability](https://img.shields.io/badge/Adaptability-4CAF50?style=for-the-badge&logo=adaptability&logoColor=white)
+![Team Player](https://img.shields.io/badge/Team%20Player-FF5722?style=for-the-badge&logo=team-player&logoColor=white)
+![Time Management](https://img.shields.io/badge/Time%20Management-9C27B0?style=for-the-badge&logo=time-management&logoColor=white)
+![Tamil](https://img.shields.io/badge/Tamil-FF5722?style=for-the-badge&logo=tamil&logoColor=white)
+![English](https://img.shields.io/badge/English-007ACC?style=for-the-badge&logo=english&logoColor=white)
 
 ### Certifications
 
