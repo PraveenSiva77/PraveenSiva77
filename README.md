@@ -82,13 +82,7 @@ I am a dedicated B.Tech student in AI and Data Science at Kathir College of Engi
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FFEB3B?style=for-the-badge&logo=problem-solving&logoColor=black)
-![Communication](https://img.shields.io/badge/Communication-03A9F4?style=for-the-badge&logo=communication&logoColor=white)
-![Adaptability](https://img.shields.io/badge/Adaptability-4CAF50?style=for-the-badge&logo=adaptability&logoColor=white)
-![Team Player](https://img.shields.io/badge/Team%20Player-FF5722?style=for-the-badge&logo=team-player&logoColor=white)
-![Time Management](https://img.shields.io/badge/Time%20Management-9C27B0?style=for-the-badge&logo=time-management&logoColor=white)
-![Tamil](https://img.shields.io/badge/Tamil-FF5722?style=for-the-badge&logo=tamil&logoColor=white)
-![English](https://img.shields.io/badge/English-007ACC?style=for-the-badge&logo=english&logoColor=white)
+
 
 ### Certifications
 
