@@ -61,7 +61,7 @@ I am a dedicated B.Tech student in AI and Data Science at Kathir College of Engi
 ### Badges
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![֎ Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-065535?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-9C27B0?style=for-the-badge&logo=deep-learning&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge&logo=data-science&logoColor=white)
