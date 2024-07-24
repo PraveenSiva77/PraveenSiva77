@@ -1,11 +1,10 @@
-# Praveenkumar S
+#Hi, I'm Praveenkumar S 👋
 
 ## Deep Learning & AI Developer
 
 **Contact Information:**
 - 📞 Phone: +91 6381299183
 - 📧 Email: [praveensiva0820@gmail.com](mailto:praveensiva0820@gmail.com)
-- 💻 GitHub: [praveensiva77](https://github.com/praveensiva77)
 - 🌐 Portfolio: [praveensiva77.github.io](https://praveensiva77.github.io/)
 - 📍 Location: Coimbatore, India
 
@@ -97,11 +96,6 @@ I am a dedicated B.Tech student in AI and Data Science at Kathir College of Engi
 
 - **B.Tech in AI & Data Science** (Expected graduation May 2025)
   - Kathir College of Engineering, Coimbatore, India
-
-### Languages
-
-- Tamil
-- English
 
 ---
 
