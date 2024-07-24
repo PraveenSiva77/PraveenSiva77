@@ -1,4 +1,4 @@
-# Hi, I'm Praveenkumar S 👋
+# Hi!, I'm Praveenkumar S 👋
 
 ## Deep Learning & AI Developer
 
