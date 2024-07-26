@@ -5,7 +5,7 @@
 **Contact Information:**
 - 📞 Phone: +91 6381299183
 - 📧 Email: [praveensiva0820@gmail.com](mailto:praveensiva0820@gmail.com)
-- 🌐 Portfolio: [praveensiva77.github.io](https://praveensiva77.github.io/)
+- 🌐 Portfolio: [praveensiva77.github.io](https://praveensiva77.github.io/PraveenSiva)
 - 📍 Location: Coimbatore, India
 
 ---
