@@ -17,13 +17,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋, I'm Praveenkumar S</h1>
+<h1 align="center">Hi👋, I'm Praveenkumar</h1>
 
 ###
 <h3 align="center">AI Developer  |  Web Developer  |  UI Designer</h3>
@@ -35,6 +29,15 @@
 <p align="left">
 I am a B.Tech student specializing in <strong>Artificial Intelligence and Data Science</strong> at Kathir College of Engineering. With a deep passion for <strong>Machine Learning, Web Development, and Deep Learning</strong>, I am dedicated to harnessing technology to tackle complex challenges. My commitment to continuous learning and problem-solving drives me to stay updated with the latest industry trends and advancements.
 </p>
+
+###
+
+* 🌍  I'm based in Coimbatore, Tamil Nadu, India
+* 🖥️  See my portfolio at [Mind Sync](http://praveensiva77.github.io/PraveenSiva)
+* ✉️  You can contact me at [praveensiva0820@gmail.com](mailto:praveensiva0820@gmail.com)
+* 🧠  I'm currently pursuing B.Tech Artificial Intelligence & Data Science
+* 🤝  I'm open to collaborating on Machine Learning & Web Development
+* ⚡  I'm secretly Batman🦇. but don't tell anyone
 
 ###
 
@@ -58,25 +61,26 @@ I am a B.Tech student specializing in <strong>Artificial Intelligence and Data S
 - **⚡Designs:** Armed with HTML, CSS, JavaScript, and React, I orchestrate visually captivating and responsive front-end designs that enchant and engage users.
 
     <table style="width: 100%; table-layout: fixed;">
-      <tr align="center">
-        <th>HTML</th>
-        <th>CSS3</th>
-        <th>Bootstrap</th>
-        <th>JavaScript</th>
-        <th>ReactJS</th>
-        <th>Figma</th>
-        <th>Canva</th>
+      <tr align="center" style="font-size: 14px;">
+        <th style="width: 14.28%;">HTML</th>
+        <th style="width: 14.28%;">CSS3</th>
+        <th style="width: 14.28%;">Bootstrap</th>
+        <th style="width: 14.28%;">JavaScript</th>
+        <th style="width: 14.28%;">ReactJS</th>
+        <th style="width: 14.28%;">Figma</th>
+        <th style="width: 14.28%;">Canva</th>
       </tr>
-      <tr align="center">
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" height="55" width="55";/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" height="55" width="55";/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" height="55" width="55";/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="55" width="55";/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" height="55" width="55";/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="55" width="55";/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" height="55" width="55";/></td>
+      <tr align="center" style="font-size: 14px;">
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" style="height: 55px; width: 55px;" /></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" style="height: 55px; width: 55px;" /></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" style="height: 55px; width: 55px;" /></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" style="height: 55px; width: 55px;" /></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" style="height: 55px; width: 55px;" /></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" style="height: 55px; width: 55px;" /></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" style="height: 55px; width: 55px;" /></td>
       </tr>
     </table>
+
 
     
 - **🪄AI/ML:** Transforming data into intelligence, I specialize in AI and Generative AI, crafting complex models that are captivate and inspiring.
