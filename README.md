@@ -71,13 +71,13 @@ I am a B.Tech student specializing in <strong>Artificial Intelligence and Data S
         <th style="width: 14.28%;">Canva</th>
       </tr>
       <tr align="center" style="font-size: 14px;">
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" style="height: 80%; width: 80%;" /></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" style="height: 80%; width: 80%;" /></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" style="height: 80%; width: 80%;" /></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" style="height: 80%; width: 80%;" /></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" style="height: 80%; width: 80%;" /></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" style="height: 80%; width: 80%;" /></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" style="height: 80%; width: 80%;" /></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" style="height: 10vw; width: 10vw;" /></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" style="height: 10vw; width: 10vw;" /></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" style="height: 10vw; width: 10vw;" /></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" style="height: 10vw; width: 10vw;" /></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" style="height: 10vw; width: 10vw;" /></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" style="height: 10vw; width: 10vw;" /></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" style="height: 10vw; width: 10vw;" /></td>
       </tr>
     </table>
 
