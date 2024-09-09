@@ -60,27 +60,26 @@ I am a B.Tech student specializing in <strong>Artificial Intelligence and Data S
 
 - **⚡Designs:** Armed with HTML, CSS, JavaScript, and React, I orchestrate visually captivating and responsive front-end designs that enchant and engage users.
 
-    <table style="width: 100%; table-layout: fixed;">
-      <tr align="center" style="font-size: 14px;">
-        <th style="width: 14.28%;">HTML</th>
-        <th style="width: 14.28%;">CSS3</th>
-        <th style="width: 14.28%;">Bootstrap</th>
-        <th style="width: 14.28%;">JavaScript</th>
-        <th style="width: 14.28%;">ReactJS</th>
-        <th style="width: 14.28%;">Figma</th>
-        <th style="width: 14.28%;">Canva</th>
+    <table style="width: 100%; table-layout: fixed; ">
+      <tr align="center">
+        <th>HTML</th>
+        <th>CSS3</th>
+        <th>Bootstrap</th>
+        <th>JavaScript</th>
+        <th>ReactJS</th>
+        <th>Figma</th>
+        <th>Canva</th>
       </tr>
-      <tr align="center" style="font-size: 14px;">
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" style="height: 10vw; width: 10vw;" /></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" style="height: 10vw; width: 10vw;" /></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" style="height: 10vw; width: 10vw;" /></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" style="height: 10vw; width: 10vw;" /></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" style="height: 10vw; width: 10vw;" /></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" style="height: 10vw; width: 10vw;" /></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" style="height: 10vw; width: 10vw;" /></td>
+      <tr align="center">
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" height="55" width="55";/></td>
       </tr>
     </table>
-
 
     
 - **🪄AI/ML:** Transforming data into intelligence, I specialize in AI and Generative AI, crafting complex models that are captivate and inspiring.
