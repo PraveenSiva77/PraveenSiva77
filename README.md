@@ -20,7 +20,10 @@
 <h1 align="center">Hi👋, I'm Praveenkumar</h1>
 
 ###
-<h3 align="center">AI Developer  |  Web Developer  |  UI Designer</h3>
+<h3 align="center">ML Developer</h3>
+
+<h3 align="center">|  Web Developer  |  UI Designer</h3>
+
 
 <h3 align="left" style="font-weight:600;">👩‍💻  About Me</h3>
 
