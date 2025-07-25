@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">Hi👋, I'm Praveenkumar</h1>
+<h1 align="center">Hi👋, I'm Praveenkumar S</h1>
 
 ###
 <h3 align="center"> AI/ML Developer |  Full Stack Developer  </h3>
