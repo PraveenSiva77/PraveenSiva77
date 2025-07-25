@@ -22,7 +22,7 @@
 ###
 <h3 align="center">AI/ML Developer</h3>
 
-<h3 align="center">|  Web Developer  |  UI Designer |</h3>
+<h3 align="center">|  Full Stack Developer  |</h3>
 
 
 <h3 align="left" style="font-weight:600;">👩‍💻  About Me</h3>
