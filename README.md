@@ -20,7 +20,7 @@
 <h1 align="center">Hi👋, I'm Praveenkumar S</h1>
 
 ###
-<h3 align="center"> AI/ML Developer |  Full Stack Developer  </h3>
+<h3 align="center"> AI/ML Developer |  Full Stack Developer   </h3>
 
 
 <h3 align="left" style="font-weight:600;">👩‍💻  About Me</h3>
